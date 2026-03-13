@@ -10,6 +10,7 @@ def main() -> None:
     print("10 - 4 =", format_number(subtract(10, 4)))
     print("3 * 7 =", format_number(multiply(3, 7)))
     print("3 * 9 =", format_number(multiply(3, 9)))
+    print("10 / 2 =", format_number(divide(10, 2)))
 
 
 if __name__ == "__main__":
