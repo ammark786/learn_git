@@ -3,7 +3,7 @@
 
 def greet(name: str) -> str:
     """Return a greeting string."""
-    return f"Hello there, {name}!"
+    return f"Hey, {name}! Great to see you."
 
 
 def format_number(n: float) -> str:
